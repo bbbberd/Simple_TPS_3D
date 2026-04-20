@@ -14,6 +14,8 @@ Simple tps in unity, coded in c# to learn about third person view and shooting m
   <img src="https://img.shields.io/badge/Camera-Third_Person_System-yellow" />
   <img src="https://img.shields.io/badge/Input-System_Unity_Input_System-lightgrey" />
   <img src="https://img.shields.io/badge/Physics-Unity_Rigidbody_&_Colliders-blueviolet" />
+  <img src="https://img.shields.io/badge/HLSL-Shader%20Language-8A2BE2" />
+  <img src="https://img.shields.io/badge/ShaderLab-Unity_Shader-orange" />
 </p>
 
 <p align="center">
